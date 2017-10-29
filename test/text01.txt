@@ -1,0 +1,7 @@
+450m
+BotA 1000m 100m
+BotB 500m 200m
+BotC 300m 200m
+BotD 300m 300m
+BotE 5000m 750m
+BotF 11000m 10m

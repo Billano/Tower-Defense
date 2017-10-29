@@ -1,0 +1,3 @@
+50m
+BotA 60m 60m;
+BotB 70m 70m;

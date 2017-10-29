@@ -1,0 +1,29 @@
+{
+  "name": "codingchallenge",
+  "version": "1.0.0",
+  "description": "Tower defense coding challenge",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "engines": {
+        "node": "#0.12.14"
+      , "npm":  "#2.15.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mocha": "^4.0.1",
+    "should": "^13.1.3"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.4",
+    "mocha": "^4.0.1",
+    "should": "^13.1.3"
+  },
+  "scripts": {
+    "start": "node index.js < test/text.txt",
+    "test": "mocha --harmony -R spec test/*.spec.js"
+  },
+  "author": "Eugenio Rodriguez",
+  "license": "ISC"
+}
