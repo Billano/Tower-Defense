@@ -22,7 +22,7 @@
   },
   "scripts": {
     "start": "node index.js < test/text.txt",
-    "test": "mocha --harmony -R spec test/*.spec.js"
+    "test": "mocha"
   },
   "author": "Eugenio Rodriguez",
   "license": "ISC"
